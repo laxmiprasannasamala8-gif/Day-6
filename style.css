@@ -10,6 +10,14 @@
     margin-right: 20px; /* optional spacing */
 }
 
+.title {
+    text-align: center;
+    border-bottom: 1px solid black; /* thin line */
+    padding-bottom: 5px;
+    width: 100%; /* full width */
+    margin: 0;
+}
+
 body {
     font-family: "Noto Sans Telugu", sans-serif;
     line-height: 1.6;
