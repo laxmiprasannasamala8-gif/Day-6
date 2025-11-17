@@ -1,0 +1,49 @@
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.right-text {
+    text-align: right;
+    margin-right: 20px; /* optional spacing */
+}
+
+body {
+    font-family: "Noto Sans Telugu", sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 0;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    color: #b30000;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color: #003399;
+    margin-top: 10px;
+}
+
+h3 {
+    margin: 2px 0;
+}
+
+/* Paragraph styling */
+p {
+    text-align: justify;
+    font-size: 18px;
+}
+
+b {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+}
